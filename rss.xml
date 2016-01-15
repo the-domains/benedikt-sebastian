@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Benedikt Sebastian]]></title>
+        <description><![CDATA[Benedikt Sebastian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 17:34:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d896e8e5-e05b-4329-9dd4-6c62f4cae733.jpg">]]></description>
+            <link>undefinedcc32be02-db8f-4783-9f10-b96f51f5a32d/index.html</link>
+            <guid isPermaLink="false">cc32be02-db8f-4783-9f10-b96f51f5a32d</guid>
+            <pubDate>Fri, 15 Jan 2016 17:33:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
